@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="" section_id="0870e02ddb9fc010a79b5c7a48961972" sys_domain="global" table="x_58872_needit_test" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>activity.xml</element>
+            <position>0</position>
+            <sys_created_by>fred.luddy</sys_created_by>
+            <sys_created_on>2020-03-01 18:35:55</sys_created_on>
+            <sys_id>3b90686ddb9fc010a79b5c7a4896196b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter display_value="Activities (filtered)">444ea5c6bf310100e628555b3f0739d6</sys_ui_formatter>
+            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_test" sys_domain="global" view="Default view">0870e02ddb9fc010a79b5c7a48961972</sys_ui_section>
+            <sys_updated_by>fred.luddy</sys_updated_by>
+            <sys_updated_on>2020-03-01 18:35:55</sys_updated_on>
+            <sys_user/>
+            <type>formatter</type>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption/>
+            <header>false</header>
+            <name>x_58872_needit_test</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>fred.luddy</sys_created_by>
+            <sys_created_on>2020-03-01 18:35:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0870e02ddb9fc010a79b5c7a48961972</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_58872_needit_test</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+            <sys_update_name>sys_ui_section_0870e02ddb9fc010a79b5c7a48961972</sys_update_name>
+            <sys_updated_by>fred.luddy</sys_updated_by>
+            <sys_updated_on>2020-03-01 18:35:08</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>0799b60bdb05330091232f17d4961953</instance_id>
+        <instance_name>dev84609</instance_name>
+        <name>sys_ui_section_0870e02ddb9fc010a79b5c7a48961972</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="" section_id="0870e02ddb9fc010a79b5c7a48961972" sys_domain="global" table="x_58872_needit_test" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>activity.xml</element><position>0</position><sys_created_by>fred.luddy</sys_created_by><sys_created_on>2020-03-01 18:35:55</sys_created_on><sys_id>3b90686ddb9fc010a79b5c7a4896196b</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter display_value="Activities (filtered)">444ea5c6bf310100e628555b3f0739d6</sys_ui_formatter><sys_ui_section caption="NULL" display_value="" name="x_58872_needit_test" sys_domain="global" view="Default view">0870e02ddb9fc010a79b5c7a48961972</sys_ui_section><sys_updated_by>fred.luddy</sys_updated_by><sys_updated_on>2020-03-01 18:35:55</sys_updated_on><sys_user/><type>formatter</type></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption/><header>false</header><name>x_58872_needit_test</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>fred.luddy</sys_created_by><sys_created_on>2020-03-01 18:35:08</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>0870e02ddb9fc010a79b5c7a48961972</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_58872_needit_test</sys_name><sys_overrides/><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_ui_section_0870e02ddb9fc010a79b5c7a48961972</sys_update_name><sys_updated_by>fred.luddy</sys_updated_by><sys_updated_on>2020-03-01 18:35:08</sys_updated_on><sys_user/><title>true</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>1527122285</payload_hash>
+        <record_name>label</record_name>
+        <reverted_from/>
+        <source>cf69523cdbdb4010a79b5c7a489619d2</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>fred.luddy</sys_created_by>
+        <sys_created_on>2020-03-01 18:35:55</sys_created_on>
+        <sys_id>3390686ddb9fc010a79b5c7a48961973</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>170976220ce0000001</sys_recorded_at>
+        <sys_updated_by>fred.luddy</sys_updated_by>
+        <sys_updated_on>2020-03-01 18:35:55</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>bb90686ded9fc0109d0d31f6cc273372</update_guid>
+        <update_guid_history>bb90686ded9fc0109d0d31f6cc273372:1527122285,ce90286ddb9fc010f47dd5937ffa7d56:-733716195,e280e46d7f9fc010c855a31e7c3734eb:1264204786,4070a46d939fc01058cf22ff49901467:539435125</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>fred.luddy</sys_created_by>
+        <sys_created_on>2020-03-01 18:37:32</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>5bad9640e46e41f19528471c14052399</sys_id>
+        <sys_metadata>0870e02ddb9fc010a79b5c7a48961972</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_58872_needit_test</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent display_value="">ae80e46ddb9fc010a79b5c7a4896196a</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_ui_section_0870e02ddb9fc010a79b5c7a48961972</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_0870e02ddb9fc010a79b5c7a48961972">3390686ddb9fc010a79b5c7a48961973</sys_update_version>
+        <sys_updated_by>fred.luddy</sys_updated_by>
+        <sys_updated_on>2020-03-01 18:37:32</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
